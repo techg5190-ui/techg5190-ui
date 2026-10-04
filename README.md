@@ -79,4 +79,12 @@ I'm open to **backend developer opportunities**, collaborations, and conversatio
   <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<h1>projects i want to build are</h1>
+<ol>
+  <li>URL Shortner + click Analytics</li>
+  <li>File processing pipeline</li>
+  <li>API key manager with usage Dashboard</li>
+  <li>Dev standup bot</li>
+  <li>Real time Leaderboard API</li>
+</ol>
 <p align="center"><i>Thanks for stopping by. If something here looks interesting, drop a ⭐ on a repo.</i></p>
